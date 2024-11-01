@@ -1,0 +1,18 @@
+#form1{
+   
+    width: 75%;
+    height: 100%;
+    margin: 5%;
+    padding: 2%;
+    border: 0.5rem solid gray;
+    margin-right: 0.5rem;
+}
+#text-T{
+    width: 70%;
+    height: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn1{
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
